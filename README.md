@@ -17,7 +17,8 @@
 
 [一口一口啃完Java中的24种设计模式---桥接模式](http://zengfanyu.top/2018/01/04/%E6%A1%A5%E6%8E%A5%E6%A8%A1%E5%BC%8F/)<p>
 [一口一口啃完Java中的24种设计模式---代理模式](http://zengfanyu.top/2018/02/10/%E4%BB%A3%E7%90%86%E6%A8%A1%E5%BC%8F/)<p>
-[一口一口啃完Java中的24种设计模式---适配器模式](http://zengfanyu.top/2018/02/24/%E9%80%82%E9%85%8D%E5%99%A8%E6%A8%A1%E5%BC%8F/)
+[一口一口啃完Java中的24种设计模式---适配器模式](http://zengfanyu.top/2018/02/24/%E9%80%82%E9%85%8D%E5%99%A8%E6%A8%A1%E5%BC%8F/)<p>
+[一口一口啃完Java中的24种设计模式---责任链模式](http://zengfanyu.top/2018/03/24/%E8%B4%A3%E4%BB%BB%E9%93%BE%E6%A8%A1%E5%BC%8F/)
 
 ## 分包格式 ##
 
