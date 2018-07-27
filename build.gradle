@@ -1,5 +1,7 @@
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 
+//Android Gradle 属于第三方插件，所以需要为其配置 classpath, 其托管在 Jcenter 上，配置在根工程的 build.gradle 中，
+//其他 module 的 build.gradle 文件就不需要在重新配置了
 buildscript {
     repositories {
         jcenter()
