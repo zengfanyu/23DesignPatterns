@@ -18,5 +18,7 @@ public class JPGImage extends Image {
         //调用不同操作系统的展示图像方法去显示图片
         os.showImage(m);
         System.out.println("[praseFileIntoImage] " + filePath + "格式为:JPG");
+
+        //commit test
     }
 }
